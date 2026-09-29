@@ -173,6 +173,11 @@ This project demonstrates an end-to-end data analytics lifecycle:
 $$\text{Raw Transaction Data} \rightarrow \text{SQL Modeling} \rightarrow \text{Python EDA} \rightarrow \text{Business Insights} \rightarrow \text{Power BI} \rightarrow \text{Executive Reporting}$$
 
 It highlights the ability to transform granular transactional datasets into **actionable commercial recommendations, systematically interpreting consumer payment behavior across basket value, duration, product mix, geography, and shipping cost structures.**
+---
+
+<img width="1692" height="966" alt="S__4325390_0" src="https://github.com/user-attachments/assets/6665670a-1beb-4049-916d-ae353fc9da7e" />
+<img width="1694" height="966" alt="S__4325392_0" src="https://github.com/user-attachments/assets/08b873f5-e142-4886-868c-b9da7fa90dc5" />
+<img width="1691" height="968" alt="S__4325391_0" src="https://github.com/user-attachments/assets/1e50ceb3-f80d-493c-9e31-6b75a5cc1545" />
 
 ---
 
